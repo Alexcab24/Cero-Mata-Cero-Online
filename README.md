@@ -9,18 +9,12 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 - [Demo](#demo)
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ---
 
 ## Demo
 
-[Enlace a la demo del proyecto, si está disponible](#)
+[Enlace a la demo del proyecto, si está disponible](#https://ceromatacero.netlify.app/)
 
 [Capturas de pantalla o gifs que muestren la interfaz o la funcionalidad del proyecto]
 
@@ -35,12 +29,13 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 ---
 
-## Tecnologías Utilizadas
+## Tecnologías y librerias Utilizadas
 
 - React
 - Vite
 - Firebase (como backend)
-- [Lista de otras librerías utilizadas]
+- canvas-confetti (Confetti al ganar un jugador)
+- ldrs (Loader del waitingPage)
 
 ---
 
