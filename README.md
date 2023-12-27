@@ -1,6 +1,6 @@
 # Cero-Mata-Cero-Online
 
-Project description: An online implementation of Tic Tac Toe (Zero Kill Zero), allowing multiple players to play against each other. Developed using React, Vite, Firebase as the backend, and various complementary libraries.
+Project description: An online implementation of Tic Tac Toe (Cero Mata Cero), allowing multiple players to play against each other. Developed using React, Vite, Firebase as the backend, and various complementary libraries.
 
 ---
 
