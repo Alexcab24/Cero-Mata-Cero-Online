@@ -14,7 +14,7 @@ Brief project description: An online implementation of Tic Tac Toe (Zero Kill Ze
 
 ## Demo
 
-[Link to the project demo, if available](https://ceromatacero.netlify.app/)
+[Link to the project demo](https://ceromatacero.netlify.app/)
 
 ### UserPage
 
