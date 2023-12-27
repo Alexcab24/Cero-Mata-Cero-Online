@@ -14,7 +14,7 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 ## Demo
 
-[Enlace a la demo del proyecto, si está disponible](#https://ceromatacero.netlify.app/)
+[Enlace a la demo del proyecto, si está disponible](https://ceromatacero.netlify.app/)
 
 [Capturas de pantalla o gifs que muestren la interfaz o la funcionalidad del proyecto]
 
