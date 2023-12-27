@@ -16,7 +16,8 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 [Enlace a la demo del proyecto, si está disponible](https://ceromatacero.netlify.app/)
 
-[Capturas de pantalla o gifs que muestren la interfaz o la funcionalidad del proyecto]
+![Captura de pantalla del juego](https://ibb.co/60yHw03)
+
 
 ---
 
@@ -34,8 +35,10 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 - React
 - Vite
 - Firebase (como backend)
+- Redux-toolkit (para el manejo del estado global)
 - canvas-confetti (Confetti al ganar un jugador)
 - ldrs (Loader del waitingPage)
+- nanoid (Generación de código aleatorio)
 
 ---
 
