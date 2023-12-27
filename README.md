@@ -32,7 +32,7 @@ Project description: An online implementation of Tic Tac Toe (Cero Mata Cero), a
 
 <img src="https://i.ibb.co/VTzGDdT/Screen-Shot-2023-12-27-at-16-31-44.png" alt="Screen-Shot-2023-12-27-at-16-29-03" width="650px" />
 
-### WinningPage
+### WinningModal
 
 <img src="https://i.ibb.co/rmdb9M0/Screen-Shot-2023-12-27-at-16-32-16.png" alt="Screen-Shot-2023-12-27-at-16-29-03" width="650px" />
 
