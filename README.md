@@ -18,7 +18,7 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 ## UserPage
 
-<a href="https://ibb.co/60yHw03"><img src="https://i.ibb.co/QvJPQv2/Screen-Shot-2023-12-27-at-16-29-03.png" alt="Screen-Shot-2023-12-27-at-16-29-03" border="0" /></a>
+<img src="https://i.ibb.co/QvJPQv2/Screen-Shot-2023-12-27-at-16-29-03.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '500px' />
 
 
 
