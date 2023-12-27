@@ -16,6 +16,10 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 [Enlace a la demo del proyecto, si está disponible](https://ceromatacero.netlify.app/)
 
+# UserPage
+
+<img src="https://i.ibb.co/QvJPQv2/Screen-Shot-2023-12-27-at-16-29-03.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '1000px' />
+
 ## UserPage
 
 <img src="https://i.ibb.co/QvJPQv2/Screen-Shot-2023-12-27-at-16-29-03.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '1000px' />
