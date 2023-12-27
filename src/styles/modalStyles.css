@@ -1,0 +1,103 @@
+/* -----------MODAL---------------- */
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background-color: #A3678B;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 450px;
+    overflow-y: auto;
+  
+  }
+  
+  .close-btn {
+    position: relative;
+    top: 0px;
+    left: 5px;
+  }
+  
+  .codeFont {
+    font-size: 65px;
+  }
+  
+  .infoModal {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .infoModalButtons {
+    margin-top: 30px;
+    align-items: center;
+    height: 50px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  
+  @media only screen and (max-width: 600px) {
+    .infoModal {
+      display: grid;
+      gap: 10px;
+    }
+  
+    .infoModalButtons {
+      margin-top: auto;
+      align-items: center;
+      height: 50px;
+      width: 175px;
+      display: grid;
+      gap: 15px;
+    }
+  
+    .modal-content {
+      background-color: #A3678B;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      width: 200px;
+      height: 280px;
+      overflow-y: auto;
+  
+    }
+  
+    .codeFont {
+      font-size: 60px;
+    }
+  }
+  
+  .closeButton {
+    width: 90%;
+    height: 100%;
+    background-color: #B31312;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    outline-offset: 4px;
+    transition: background-color 0.3s ease;
+  
+  }
+  
+  .frontClose {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background-color: #B31312;
+    color: white;
+    transform: translateY(-6px);
+  }
+  
+  
+  

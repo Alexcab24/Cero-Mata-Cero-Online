@@ -1,0 +1,195 @@
+
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nicksContainer {
+    margin: 50px;
+    gap: 15px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .nicksContainer h3 {
+    text-align: center;
+  }
+  
+  
+  .code-container {
+    width: 550px;
+    height: 180px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #67254b;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+  
+  }
+  
+  .nick-container {
+    width: 550px;
+    height: 180px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #67254b;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+   
+  }
+  
+  /* 
+  responsive  */
+  
+  @media only screen and (max-width: 600px) {
+    .code-container {
+      width: 90%;
+      height: 289px;
+      margin: 5px;
+      padding: 10px;
+      background-color: #67254b;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+    }
+  
+    .nick-container {
+      display: grid;
+      justify-content: center;
+      width: 289px;
+      height: 170px;
+      background-color: #67254b;
+      border-radius: 5px;
+      margin: 5px;
+      padding: 15px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+  
+    }
+  
+    .buttonsRoom {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      width: 90%;
+      height: 25px;
+      margin: auto;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .nickButton {
+      margin-top: 10px;
+      width: 100%;
+      height: 100%;
+      background-color: #ABC4AA;
+      border-radius: 12px;
+      border: none;
+      cursor: pointer;
+      outline-offset: 4px;
+      transition: background-color 0.3s ease;
+    }
+  
+    .buttonsNickname {
+      width: 90%;
+      height: 50px;
+    }
+  
+  }
+  
+  .box-input {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #AD445A;
+  }
+  
+  input[type="text"] {
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    border: 3px solid #E09999;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  .buttonsRoom {
+    display: flex;
+    gap: 10px;
+    width: 90%;
+    height: 50px;
+    margin: auto;
+  }
+  
+  .buttonsNickname {
+    width: 90%;
+    height: 50px;
+    margin: auto;
+  }
+  
+  
+  
+  
+  .roomButton {
+    width: 90%;
+    height: 100%;
+    background-color: #F19E59;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    outline-offset: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nickButton {
+    width: 100%;
+    height: 100%;
+    background-color: #F19E59;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    outline-offset: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .front {
+    display: block;
+    padding: 12px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background-color: #F19E59;
+    color: white;
+    transform: translateY(-6px);
+  }
+  
+  .roomButton:active .front {
+    transform: translateY(-2px);
+  }
+  
+  button:hover {
+    background-color: #D8CCA3;
+  }
+  

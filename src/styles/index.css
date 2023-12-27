@@ -1,49 +1,38 @@
-:root {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-}
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
 
 body {
-  margin: 0;
+  background-color: #441952;
+  font-family: 'Nova Square', sans-serif;
   display: flex;
   justify-content: center;
-  min-width: 320px;
-  min-height: 100vh;
+  align-items: center;
+  margin: 0;
+
 }
 
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
 
+}
 .board {
+
   width: fit-content;
-  margin: 40px auto;
+  margin: 50px auto;
   text-align: center;
 }
 
-.board h1 {
-  color: #eee;
-  margin-bottom: 16px;
+
+
+h1 {
+  color: white;
 }
 
 .board button {
   padding: 8px 12px;
   margin: 25px;
-  background: transparent;
+  background-color: #F19E59;
   border: 2px solid #eee;
   color: #eee;
   width: 100px;
@@ -53,10 +42,7 @@ body {
   cursor: pointer;
 }
 
-.board button:hover {
-  background: #eee;
-  color: #222;
-}
+
 
 .board .game {
   display: grid;
@@ -69,9 +55,11 @@ body {
   justify-content: center;
   margin: 15px auto;
   width: fit-content;
-  position: relative;
+  color: white;
   border-radius: 10px;
 }
+
+
 
 .turn .square,
 .winner .square {
@@ -79,11 +67,13 @@ body {
   height: 70px;
   pointer-events: none;
   border-color: transparent;
+  color: white;
+  
 }
 
 .square.is-selected {
   color: #fff;
-  background: #09f;
+  background: #F19E59;
 }
 
 .winner {
@@ -96,8 +86,10 @@ body {
   place-items: center;
   background-color: rgba(0, 0, 0, 0.7);
 }
+
 .winner .text {
-  background: #111;
+  background: #A3678B;
+  color: white;
   height: 300px;
   width: 320px;
   border: 2px solid #eee;
@@ -127,4 +119,10 @@ body {
   place-items: center;
   cursor: pointer;
   font-size: 48px;
+  color: white;
 }
+
+
+
+
+
