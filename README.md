@@ -30,11 +30,11 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 ### GamePage
 
-<img src="https://i.ibb.co/VTzGDdT/Screen-Shot-2023-12-27-at-16-31-44.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '1000px' />
+<img src="https://i.ibb.co/VTzGDdT/Screen-Shot-2023-12-27-at-16-31-44.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '650px' />
 
 ### WinningPage
 
-<img src="https://i.ibb.co/rmdb9M0/Screen-Shot-2023-12-27-at-16-32-16.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '1000px' />
+<img src="https://i.ibb.co/rmdb9M0/Screen-Shot-2023-12-27-at-16-32-16.png" alt="Screen-Shot-2023-12-27-at-16-29-03"  width = '650px' />
 
 
 
