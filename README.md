@@ -56,6 +56,7 @@ Project description: An online implementation of Tic Tac Toe (Cero Mata Cero), a
 - canvas-confetti (Confetti when a player wins)
 - ldrs (Loader for WaitingPage)
 - nanoid (Random code generation)
+- animate.css 
 
 
 
