@@ -44,14 +44,4 @@ Descripción breve del proyecto: Una implementación de Tic Tac Toe (Cero Mata C
 
 ---
 
-## Instalación
 
-Describe los pasos básicos para instalar y configurar el proyecto en local.
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/TuUsuario/Cero-Mata-Cero-Online.git
-
-# Instalar dependencias
-cd Cero-Mata-Cero-Online
-npm install
